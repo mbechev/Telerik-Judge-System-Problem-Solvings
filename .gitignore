@@ -56,7 +56,7 @@ typings/
 
 # dotenv environment variables file
 .env
-/Leetcode
+
 /Telerik-Contest/recursion-tree
 /Telerik-Contest/Using-stack-queue
 /Homework
